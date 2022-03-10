@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.pavelshweb.localiseplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pavelshweb.localiseplugin.MyBundle
 
 class MyApplicationService {
 
